@@ -1,6 +1,3 @@
-pip install python-dotenv
-pip install discord once
-
 from dotenv import load_dotenv
 import discord
 import os
